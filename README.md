@@ -28,7 +28,7 @@ opportunity, feel free to reach out!
 
 - LinkedIn: [alekhandro-lagonavarro](https://www.linkedin.com/in/alekhandro-lagonavarro/)
 - Telegram: [https://t.me/Alejandro_LN](https://t.me/Alejandro_LN)
-- Tel: [+380507695110](+380507695110)
+- Tel: **+380507695110**
 - Email: [lagoalekhandro@gmail.com](https://www.gmail.com)
 
 Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀
